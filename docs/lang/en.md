@@ -15,6 +15,7 @@ The following features enable scheduled posting by using GAS triggers.
 ### Feature 1: Generate short strange stories and post them on X
 
 Run the `batchPostStrangeStory` function to post AI-generated strange stories to X along with hashtags.
+
 Example:
 
 ```
@@ -26,6 +27,7 @@ Example:
 ### Feature 2: Generate nonexistent words or proverbs and post them on X
 
 Run the `batchPostDontExistWords` function to post AI-generated nonexistent words or proverbs to X along with hashtags.
+
 Example:
 
 ```
